@@ -5,7 +5,7 @@ I'm Junior Developer
 I study " SpringBoot | CI/CD | React | Python "
 
 # 🌎Experience
-
+신입
 
 # 👋안녕하세요.
 신입 개발자 김석균입니다. SpringBoot | CI/CD | React | Python 공부를 하고있어요 :)
